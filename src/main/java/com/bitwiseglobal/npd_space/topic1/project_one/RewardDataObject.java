@@ -6,7 +6,7 @@ package com.bitwiseglobal.npd_space.topic1.project_one;
 
 public class RewardDataObject implements java.io.Serializable {
 
-    static final long serialVersionUID = 1L;
+    static final long serialVersionUID = 2L;
 
     public RewardDataObject() {
     }
