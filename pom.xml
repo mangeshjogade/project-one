@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.bitwiseglobal.npd-space.topic1</groupId>
   <artifactId>project-one</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <packaging>kjar</packaging>
   <name>project-one</name>
   <description>project-one</description>
