@@ -1,8 +1,8 @@
 package com.bitwiseglobal.npd_space.topic1.project_one;
 
 rule "null"
-	salience 2
 	dialect "mvel"
+	salience 1
 	when
 	then
 end
