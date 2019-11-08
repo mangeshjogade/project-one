@@ -1,2 +1,8 @@
 package com.bitwiseglobal.npd_space.topic1.project_one;
 
+rule "null"
+	salience 2
+	dialect "mvel"
+	when
+	then
+end
